@@ -1,11 +1,15 @@
-# Botola-matches-from-2015-to-2023-web-scraping
-In this project, we'll scrape the matches to use the data later to predict the winner of football matches in the Moroccan Botola Pro.
-Scrape match data from kooora.com / goalzz.com using selenium, BeautifulSoup, and pandas.
-==Installation==
+# Project Overview
+In this project, we'll scrape the matches to use the data later to train our Machine Learning Model in order to predict the winner of football matches in the Moroccan Botola Pro.
+
+The match data was scraped from kooora.com / goalzz.com.
+
+# Local Setup
+## Installation
+
 To follow this project, please install the following locally:
-*JupyerLab
-*Python 3.8+
-*Python packages
-  *pandas
-  *selenium
-  *BeautifulSoup
+* JupyerLab
+* Python 3
+* Python packages
+** pandas
+** selenium
+** BeautifulSoup
