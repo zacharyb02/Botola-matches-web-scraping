@@ -10,6 +10,6 @@ To follow this project, please install the following locally:
 * JupyerLab
 * Python 3
 * Python packages
-** pandas
-** selenium
-** BeautifulSoup
+  * pandas
+  * selenium
+  * BeautifulSoup
